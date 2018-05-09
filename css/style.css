@@ -29,6 +29,7 @@ nav {
 
 .restaurant-list {
   padding-top: 50px;
+  width: 100%;
 }
 
 .location {
@@ -42,7 +43,7 @@ nav {
 }
 
 .location:hover {
-     color:#FF0000;
+     background-color: #FF0000;
 } /* mouse over */
 
 .content {
